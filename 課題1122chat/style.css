@@ -1,0 +1,37 @@
+.page{
+    background-color: lightgoldenrodyellow;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.title{
+    padding-top: 60px;
+    font-size: 80px;
+    color:#00aaff;
+}
+
+.brothers{
+    text-align: center;
+}
+
+.chat{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.send-b{
+    text-align: center;
+}
+.output{
+    text-align: center;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+
+}
+
